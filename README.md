@@ -26,5 +26,5 @@
 
 ### Recommendations & Next Steps:
 - Investigate the fall in total sales in 2018 Q3 and compare Olist's sales trend to industry averages and benchmarks to further assess performance
-- While São Paulo contributes most to total sales, would be a good idea to implement targeted advevrtising campaigns to attract more customers for South-West Expansion
+- While São Paulo contributes most to total sales, would be a good idea to implement targeted advevtising campaigns to attract more customers for South-West Expansion
 - Continue to focus on targeted advertising for the top 3 categories, especially health_beauty to retain female customers
