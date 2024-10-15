@@ -14,7 +14,7 @@
 ![](./schema.png?raw=true)
 
 ### Key Observations
-##### Categories:
+#### Categories:
 - Best selling category is Health & Beauty which peaked in the third quater of 2018 with a total of 317942 in price
 - Top 3 best selling categories are all female-oriented categories
 
