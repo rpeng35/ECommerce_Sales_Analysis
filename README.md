@@ -10,6 +10,8 @@
 - **States:** Customer states in Brazil: São Paulo, Ceará, Distrito Federal, Pará, Pernambuco, Rio Grande do Sul
 - **Period:** Quaters in 2017 and 2018
 
+### Schema
+![](./schema.png?raw=true)
 
 ### Key Observations
 ##### Categories:
