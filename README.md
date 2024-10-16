@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Sales Analysis (2017-2018)
 #### Data source click [here](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
-#### For interactive tooltips/dashboards click [here]([https://public.tableau.com/app/profile/ryan.peng/viz/Ecommerce_17268743248030/Story1](https://public.tableau.com/views/Ecommerce-Overview/Story6?:language=zh-TW&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+#### For interactive tooltips/dashboards click [here](https://public.tableau.com/app/profile/ryan.peng/viz/Ecommerce-Overview/Story6)
 
 ![](./Dashboardpic.png?raw=true)
 
