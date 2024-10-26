@@ -8,7 +8,7 @@
 - **Sales:** Total sales from all categories of Olist Brizilian E-Commerce
 - **Category:** top 3 categories --- bed/bath/tables, health & beauty, watches & gifts; and others
 - **States:** Customer states in Brazil: São Paulo, Ceará, Distrito Federal, Pará, Pernambuco, Rio Grande do Sul
-- **Period:** Quaters in 2017 and 2018
+- **Period:** Quarters in 2017 and 2018
 
 ### Schema
 ![](./schema.png?raw=true)
@@ -19,8 +19,8 @@
 - Top 3 best selling categories are all female-oriented categories
 
 #### Market Trend:
-- There is a constant growth in total sales until the third quater of 2018
-- There is a 1 million difference in total sales between the first quater of 2018 and the third quater
+- There is a constant growth in total sales until the third quarter of 2018
+- There is a 1 million difference in total sales between the first quarter of 2018 and the third quater
 
 #### States and Regions:
 - São Paulo contributes approximately half of total sales; there is a significant disparity in sales and orders between São Paulo and other states
